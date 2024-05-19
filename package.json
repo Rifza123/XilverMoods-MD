@@ -1,0 +1,43 @@
+{
+  "name": "xilvermoods",
+  "version": "1.0.0",
+  "description": "whatsapp bot script relying on the baileys module",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "@rifza.p.p",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chokidar": "^3.5.3",
+    "color": "^4.0.0",
+    "cookie": "^0.4.2",
+    "escape-string-regexp": "^5.0.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "google-it": "^1.6.4",
+    "jimp": "^0.16.1",
+    "jsdom": "^16.5.0",
+    "moment-timezone": "^0.5.33",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.1.0",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "util": "^0.12.4"
+  }
+}

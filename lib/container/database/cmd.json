@@ -1,0 +1,180 @@
+{
+  "total": 186,
+  "cmd": [
+    {
+      "name": "for",
+      "use": 5,
+      "times": "20/04 00:22:17"
+    },
+    {
+      "name": "mode",
+      "use": 2,
+      "times": "20/04 16:54:23"
+    },
+    {
+      "name": "play",
+      "use": 14,
+      "times": "21/04 23:32:48"
+    },
+    {
+      "name": "menu",
+      "use": 13,
+      "times": "19/05 11:52:50"
+    },
+    {
+      "name": "s",
+      "use": 21,
+      "times": "21/04 18:41:55"
+    },
+    {
+      "name": "tes",
+      "use": 16,
+      "times": "21/04 19:30:42"
+    },
+    {
+      "name": "ss",
+      "use": 5,
+      "times": "21/04 13:50:22"
+    },
+    {
+      "name": "google",
+      "use": 7,
+      "times": "21/04 17:09:26"
+    },
+    {
+      "name": "group",
+      "use": 1,
+      "times": "21/04 14:31:58"
+    },
+    {
+      "name": "slot",
+      "use": 8,
+      "times": "21/04 16:01:17"
+    },
+    {
+      "name": "slot2",
+      "use": 9,
+      "times": "21/04 16:13:28"
+    },
+    {
+      "name": "pin",
+      "use": 2,
+      "times": "21/04 16:33:30"
+    },
+    {
+      "name": "tourl",
+      "use": 2,
+      "times": "21/04 16:40:17"
+    },
+    {
+      "name": "mining",
+      "use": 1,
+      "times": "21/04 16:40:17"
+    },
+    {
+      "name": "jual",
+      "use": 1,
+      "times": "21/04 16:40:17"
+    },
+    {
+      "name": "berburu",
+      "use": 1,
+      "times": "21/04 16:40:17"
+    },
+    {
+      "name": "profile",
+      "use": 5,
+      "times": "21/04 16:46:29"
+    },
+    {
+      "name": "del",
+      "use": 2,
+      "times": "21/04 18:41:55"
+    },
+    {
+      "name": "kick",
+      "use": 1,
+      "times": "21/04 18:41:55"
+    },
+    {
+      "name": "tts",
+      "use": 14,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "bass",
+      "use": 3,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "volume",
+      "use": 1,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "broadcast",
+      "use": 1,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "closetime",
+      "use": 2,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "opentime",
+      "use": 2,
+      "times": "21/04 19:06:43"
+    },
+    {
+      "name": "ytplaylist",
+      "use": 10,
+      "times": "22/04 00:07:35"
+    },
+    {
+      "name": "coin",
+      "use": 3,
+      "times": "21/04 23:43:18"
+    },
+    {
+      "name": "ytm4a",
+      "use": 1,
+      "times": "22/04 00:07:35"
+    },
+    {
+      "name": "capcut",
+      "use": 2,
+      "times": "22/04 00:07:35"
+    },
+    {
+      "name": "spotify",
+      "use": 7,
+      "times": "22/04 00:24:52"
+    },
+    {
+      "name": "tiktok",
+      "use": 7,
+      "times": "22/04 01:26:55"
+    },
+    {
+      "name": "pinterestdl",
+      "use": 1,
+      "times": "22/04 01:40:00"
+    },
+    {
+      "name": "pindl",
+      "use": 8,
+      "times": "22/04 02:03:16"
+    },
+    {
+      "name": "facebookdl",
+      "use": 2,
+      "times": "22/04 02:14:43"
+    },
+    {
+      "name": "tebakbendera",
+      "use": 4,
+      "times": "22/04 08:39:09"
+    }
+  ]
+}
